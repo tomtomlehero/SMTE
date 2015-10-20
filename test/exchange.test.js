@@ -3,6 +3,7 @@
 
 var assert = require('assert');
 var should = require('should');
+var exchange = require('../lib/exchange');
 
 var exchangeData = {};
 
